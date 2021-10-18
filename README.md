@@ -1,2 +1,2 @@
-# futuretec-project-self_driving_cars_resources
+# 自动驾驶学习资源
 This project for self-driving cars learning
