@@ -1,5 +1,9 @@
-# 自动驾驶学习资源
+# 自动驾驶
 This project for self-driving cars learning
+本项目主要用于在自我学习和研究自动驾驶技术中，收集各种学习资源。其中部分资源来源相关的个人，也会注明出处。
+
+### The Roadmap of Learing Self Driving Cars (自动驾驶学习路线)
+[自动驾驶]
 
 ### Table of Content(资源目录)
 
