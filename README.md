@@ -8,26 +8,25 @@ This project for self-driving cars learning
 
 
 ### Table of Content(资源目录)
+- Books 书籍
+- Papers 论文
+- Reports 报告
+- Magazines 杂志
+- Notes 笔记
+- Courses 课程
+- Videos 视屏
+- Project 项目
+- Codes 代码
+- Companies 公司
+- Jobs 岗位
+- Websites  平台
+- Platforms 论坛
+- Blogs 博客
+- News 新闻
+- Future 前沿
 
-- Learning Websites (学习平台)
 
-- Companies（公司列表）
-- Platforms (论坛)
-- Learning Notes(学习笔记)
-- Learning Courses(学习课程)
-- List of Papers(论文清单)
-- Videos (视屏集)
-- Projects (项目集)
-- Books(参考书籍)
-- List of Reports(行业报告)
-- Jobs (工作岗位)
-- Codes (开源代码)
-- Magazines (期刊杂志)
-- News (新闻公号)
-- Future techniques(前沿技术)
-
-
-### Learning Websites(学习平台)
+### Websites(学习网站)
 
 #### 1，[Udacity](https://www.udacity.com/)
 The School of Autonomous Systems 
