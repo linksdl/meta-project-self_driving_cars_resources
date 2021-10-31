@@ -64,5 +64,5 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 
 
 ### References
-[1] Udacity https://www.udacity.com/
-[2] Felix, 2018, So you want to be a self-driving car engineer? 
+- [1] Udacity https://www.udacity.com/
+- [2] Felix, 2018, So you want to be a self-driving car engineer? 
