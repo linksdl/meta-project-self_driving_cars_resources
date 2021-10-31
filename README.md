@@ -7,6 +7,10 @@ This project for self-driving cars learning
 ![自动驾驶](自动驾驶学习路线图.png)
 
 
+#### 如何成为一名自动驾驶工程师
+[So you want to be a self-driving car engineer?](https://autonomous-driving.org/2018/08/15/so-you-want-to-be-a-self-driving-car-engineer/)
+(Felix, 2018).
+
 ### Table of Content(资源目录)
 - Books 书籍
 - Papers 论文
@@ -61,3 +65,4 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 
 ### References
 [1] Udacity https://www.udacity.com/
+[2] Felix, 2018, So you want to be a self-driving car engineer? 
