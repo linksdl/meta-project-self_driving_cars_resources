@@ -16,6 +16,7 @@ This project for self-driving cars learning
 - Courses 课程
 - Videos 视屏
 - Project 项目
+- Challenges 竞赛
 - Codes 代码
 - Companies 公司
 - Jobs 岗位
