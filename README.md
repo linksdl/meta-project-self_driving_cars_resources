@@ -42,6 +42,16 @@ The School of Autonomous Systems
 - Sensor Fusion Engineer
 - Digital Freelancer(数字的自由职业者)
 
+#### 2, [Coursera](https://www.coursera.org/)
+Self-Driving Cars Specialization Offered by University of TORONTO
+> Launch Your Career in Self-Driving Cars. Be at the forefront of the autonomous driving industry.
+
+**Courses**
+- Introduction to Self-Driving Cars
+- State Estimation and Localization for Self-Driving Cars
+- Visual Perception for Self-Driving Cars
+- Motion Planning for Self-Driving Cars
+
 
 
 ### References
