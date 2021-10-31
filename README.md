@@ -52,6 +52,11 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 - Visual Perception for Self-Driving Cars
 - Motion Planning for Self-Driving Cars
 
+#### 3, [中国大学 MOOC](https://www.icourse163.org/course/BIT-1207432808?tid=1465692443)
+> 这是一门面向初学者的无人驾驶车辆慕课，由北京理工大学智能车辆团队倾情打造。理论联系实际，用丰富的案例进行讲解。课程也许不会告诉你无人驾驶全部的“秘密”，但从这门课学到的知识，可以帮助你去探寻无人驾驶的“秘密”。
+>来吧，这里有你想要的 ^_^
+
+
 
 
 ### References
