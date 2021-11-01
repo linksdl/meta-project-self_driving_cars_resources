@@ -62,8 +62,8 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 
 
 ### Blogs (博客)
-- [How cities can benefit from automated driving(城市如何从自动驾驶中受益)](https://www.bosch.com/stories/economic-impact-of-self-driving-cars/)
-
+- [How cities can benefit from automated driving (城市如何从自动驾驶中受益)](https://www.bosch.com/stories/economic-impact-of-self-driving-cars/)
+- [How Google's Self-Driving Car Will Change Everything (谷歌的自动驾驶汽车将如何改变一切)](https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp)
 
 ### References
 - [1] Udacity https://www.udacity.com/
