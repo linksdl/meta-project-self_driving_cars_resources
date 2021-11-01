@@ -71,6 +71,11 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 - news, [Introducing the 5th-generation Waymo Driver: Informed by experience, designed for scale, engineered to tackle more environments (引入第 5 代 Waymo 驱动程序：以经验为基础，为规模而设计，旨在应对更多环境)](https://blog.waymo.com/2020/03/introducing-5th-generation-waymo-driver.html)
 
 ### Reports（行业报告）<a name="reports"></a>
+**1，智能汽车产业链全景图**
+
+- [智能汽车产业链全景图（2021年9月版）](https://mp.weixin.qq.com/s/cBGwT6GC1kRWL_gSBFcNug)
+- [智能网联汽车产业链全景图（2020年6月版）](https://mp.weixin.qq.com/s/grEUnaEhBl4WqCYBlU1tpQ)
+- [2019年自动驾驶产业链企业全景图（共300多家）](https://mp.weixin.qq.com/s/Su8LaHFucmi2BUkq1fcjPg)
 
 ### References <a name="refers"></a>
 - [1] Udacity https://www.udacity.com/
