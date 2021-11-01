@@ -12,6 +12,9 @@ This project for self-driving cars learning
 (Felix, 2018).
 
 ### Table of Content(资源目录)
+- [Companies （自动驾驶公司）](#companies)
+- [Websites(学习网站)](#websites)
+- [Blogs, News and Articles (博客文章)](#blogs)
 - Books 书籍
 - Papers 论文
 - Reports 报告
@@ -22,16 +25,17 @@ This project for self-driving cars learning
 - Project 项目
 - Challenges 竞赛
 - Codes 代码
-- Companies 公司
 - Jobs 岗位
-- Websites  平台
 - Platforms 论坛
-- Blogs 博客
-- News 新闻
 - Future 前沿
+- [References（参考文献）](#refers)
 
+### Companies (自动驾驶公司) <a name="companies"></a>
+- [Waymo](https://waymo.com/intl/es/)
+- [Tesla](https://www.tesla.com/de_DE/autopilot)
+- 
 
-### Websites(学习网站)
+### Websites (学习网站)<a name="websites"></a>
 
 #### 1，[Udacity](https://www.udacity.com/)
 The School of Autonomous Systems 
@@ -61,10 +65,12 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 >来吧，这里有你想要的 ^_^
 
 
-### Blogs (博客)
-- [How cities can benefit from automated driving (城市如何从自动驾驶中受益)](https://www.bosch.com/stories/economic-impact-of-self-driving-cars/)
-- [How Google's Self-Driving Car Will Change Everything (谷歌的自动驾驶汽车将如何改变一切)](https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp)
+### Blogs, Articles and News (博客文章) <a name="blogs"></a>
+- blogs,[How cities can benefit from automated driving (城市如何从自动驾驶中受益)](https://www.bosch.com/stories/economic-impact-of-self-driving-cars/)
+- blogs,[How Google's Self-Driving Car Will Change Everything (谷歌的自动驾驶汽车将如何改变一切)](https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp)
+- news, [Introducing the 5th-generation Waymo Driver: Informed by experience, designed for scale, engineered to tackle more environments (引入第 5 代 Waymo 驱动程序：以经验为基础，为规模而设计，旨在应对更多环境)](https://blog.waymo.com/2020/03/introducing-5th-generation-waymo-driver.html)
 
-### References
+
+### References <a name="refers"></a>
 - [1] Udacity https://www.udacity.com/
 - [2] Felix, 2018, So you want to be a self-driving car engineer? 
