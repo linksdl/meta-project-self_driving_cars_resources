@@ -72,7 +72,7 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 
 ### Technical Skills (技术学习) <a name="skills"></a>
 - 目标检测
-[Intersection over Union (IoU) for object detection(用于对象检测的联合交集 (IoU))](pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)[3]
+  - [Intersection over Union (IoU) for object detection(用于对象检测的联合交集 (IoU))](pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)[3]
 
 
 
