@@ -3,18 +3,18 @@ This project for self-driving cars learning
 本项目主要用于在自我学习和研究自动驾驶技术中，收集各种学习资源。其中部分资源来源相关的个人，也会注明出处。
 
 ### The Roadmap of Learning Self Driving Cars (自动驾驶学习路线)
-> The image (Udacity, 2020) shows the roadmap of becoming a self-driving cars engineer.
+> The image[1] shows the roadmap of becoming a self-driving cars engineer.
 ![自动驾驶](自动驾驶学习路线图.png)
 
 
 #### 如何成为一名自动驾驶工程师
-[So you want to be a self-driving car engineer?](https://autonomous-driving.org/2018/08/15/so-you-want-to-be-a-self-driving-car-engineer/)
-(Felix, 2018).
+[So you want to be a self-driving car engineer?](https://autonomous-driving.org/2018/08/15/so-you-want-to-be-a-self-driving-car-engineer/)[2].
 
 ### Table of Content(资源目录)
 - [Companies （自动驾驶公司）](#companies)
 - [Websites(学习网站)](#websites)
 - [Blogs, News and Articles (博客文章)](#blogs)
+- [Technical Skills (技术学习)](#skills)
 - Books 书籍
 - Papers 论文
 - [Reports（行业报告）](#reports)
@@ -70,6 +70,12 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 - blogs,[How Google's Self-Driving Car Will Change Everything (谷歌的自动驾驶汽车将如何改变一切)](https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp)
 - news, [Introducing the 5th-generation Waymo Driver: Informed by experience, designed for scale, engineered to tackle more environments (引入第 5 代 Waymo 驱动程序：以经验为基础，为规模而设计，旨在应对更多环境)](https://blog.waymo.com/2020/03/introducing-5th-generation-waymo-driver.html)
 
+### Technical Skills (技术学习) <a name="skills"></a>
+- 目标检测
+[Intersection over Union (IoU) for object detection(用于对象检测的联合交集 (IoU))](pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)[3]
+
+
+
 ### Reports（行业报告）<a name="reports"></a>
 **1，智能汽车产业链全景图**
 - [智能汽车产业链全景图（2021年10月版）](https://mp.weixin.qq.com/s/-HccIKWX8kNafs3osAS9qA)
@@ -94,3 +100,4 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 ### References <a name="refers"></a>
 - [1] Udacity https://www.udacity.com/
 - [2] Felix, 2018, So you want to be a self-driving car engineer? 
+- [3] Adrian Rosebrock, 2016, Intersection over Union (IoU) for object detection
