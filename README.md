@@ -71,6 +71,8 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 - news, [Introducing the 5th-generation Waymo Driver: Informed by experience, designed for scale, engineered to tackle more environments (引入第 5 代 Waymo 驱动程序：以经验为基础，为规模而设计，旨在应对更多环境)](https://blog.waymo.com/2020/03/introducing-5th-generation-waymo-driver.html)
 
 ### Technical Skills (技术学习) <a name="skills"></a>
+- 机器学习
+  - [Cross Validation(交叉验证)](https://www.cs.cmu.edu/~schneide/tut5/node42.html) 
 - 目标检测
   - [Intersection over Union (IoU) for object detection(用于对象检测的联合交集 (IoU))](pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)[3]
 
