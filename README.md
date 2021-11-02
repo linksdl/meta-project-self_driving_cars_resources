@@ -72,9 +72,10 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 
 ### Technical Skills (技术学习) <a name="skills"></a>
 - 机器学习
-  - [Cross Validation(交叉验证)](https://www.cs.cmu.edu/~schneide/tut5/node42.html) 
+  - 混淆矩阵，[Understanding Confusion Matrix(理解混淆矩阵)](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62) 
+  - 交叉验证，[Cross Validation(交叉验证)](https://www.cs.cmu.edu/~schneide/tut5/node42.html) 
 - 目标检测
-  - [Intersection over Union (IoU) for object detection(用于对象检测的联合交集 (IoU))](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)[3]
+  - 联合交集IoU, [Intersection over Union (IoU) for object detection(用于目标检测的联合交集 (IoU))](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)[3]
 
 
 
