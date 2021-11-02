@@ -74,7 +74,7 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 - 机器学习
   - [Cross Validation(交叉验证)](https://www.cs.cmu.edu/~schneide/tut5/node42.html) 
 - 目标检测
-  - [Intersection over Union (IoU) for object detection(用于对象检测的联合交集 (IoU))](pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)[3]
+  - [Intersection over Union (IoU) for object detection(用于对象检测的联合交集 (IoU))](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)[3]
 
 
 
