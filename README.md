@@ -71,13 +71,15 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 - news, [Introducing the 5th-generation Waymo Driver: Informed by experience, designed for scale, engineered to tackle more environments (引入第 5 代 Waymo 驱动程序：以经验为基础，为规模而设计，旨在应对更多环境)](https://blog.waymo.com/2020/03/introducing-5th-generation-waymo-driver.html)
 
 ### Technical Skills (技术学习) <a name="skills"></a>
-- 机器学习
+- Machine Learning 机器学习
   - 混淆矩阵，[Understanding Confusion Matrix(理解混淆矩阵)](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62) 
   - 交叉验证，[Cross Validation(交叉验证)](https://www.cs.cmu.edu/~schneide/tut5/node42.html) 
-- 计算机视觉
+- Deep Learning 深度学习 
+  - 模型训练，[A Recipe for Training Neural Networks(训练神经网络的秘诀)](http://karpathy.github.io/2019/04/25/recipe/)   
+- Computer Vision 计算机视觉
   - 图像形成，[Geometry of Image Formation(图像形成几何)](https://learnopencv.com/geometry-of-image-formation/) 
   - 图像校正，[Understanding Lens Distortion(了解镜头失真)](https://learnopencv.com/understanding-lens-distortion/)
-- 目标检测
+- Object Detection 目标检测
   - 联合交集IoU, [Intersection over Union (IoU) for object detection(用于目标检测的联合交集 (IoU))](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)[3]
 
 
