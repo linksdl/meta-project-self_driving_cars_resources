@@ -2,13 +2,38 @@
 - This repository is using mainly for self-driving cars learning.
 - 本项目主要用于自我学习和研究自动驾驶技术，通过收集和整理各种学习资源和内容，方便查阅, 不用于商业用途。其中部分资源来源相关的个人，也会注明出处。
 
-## The Roadmap of Becoming a Self-Driving Cars Engineer (自动驾驶工程师学习路线)
+## The Roadmap of Becoming a Self-Driving Cars Engineer 
+自动驾驶工程师学习路线
+
 ![自动驾驶](自动驾驶学习路线图.png)
 The image[1] shows the roadmap of becoming a self-driving cars engineer.
-## 
 
-## The Required Technical Skills(自动驾驶工程师技能栈)
-### Basic Skills(通用技能)
+
+## Table of Content(资源目录)
+- [Skills(技能要求)](#skills)
+- [Companies(自动驾驶公司)](#companies)
+- [Websites(学习网站)](#websites)
+- [Blogs, News and Articles (博客文章)](#blogs)
+- [Technical Skills (技术学习)](#skills)
+- [Books(书籍)](#books)
+- [Papers(学术论文)](#papers)
+- [Reports(行业报告)](#reports)
+- Magazines 杂志
+- Notes 笔记
+- Courses 课程
+- Videos 视屏
+- Project 项目
+- Challenges 竞赛
+- Codes 代码
+- Jobs 岗位
+- Platforms 论坛
+- Future 前沿
+- [References（参考文献）](#refers) 
+
+### The Required Technical Skills <a name="skills"></a>
+自动驾驶工程师技能栈
+
+#### Basic Skills(通用技能)
 - 数学知识：高等数学，概率论，贝叶斯思维，线性代数，离散数学，矩阵论等
 - 科学计算：优化理论，非线性优化，凸优化问题
 - 编程语言：Python, C/C++, Matlab, Java, Shell, Bash, 高性能编程
@@ -18,7 +43,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 操纵系统： Linux，QNX
 - 其他编程语言：JavaScript(Node.js, React)
 
-### 计算机基础
+#### 计算机基础
 - 数据结构与算法
 - 计算机组成原理
 - 操作系统原理
@@ -27,7 +52,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 信息论
 - 控制理论
 
-### 通用工具
+#### 通用工具
 - CPU
 - GPU(CUDA)
 - FPGA
@@ -38,7 +63,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - Docker， K8s
 - OPenCV, PCL, Open3D
 
-### AI Skills(人工智能)
+#### AI Skills(人工智能)
 - 机器学习：经典机器学习
 - 深度学习：DNN, CNN, 迁移学习，RNN
 - 强化学习：Reinforcement Learning
@@ -47,7 +72,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 图形学：Low-Level Vision, 图形学与视觉几何
 - 模型部署：CUDA， TensorRT
 
-### 硬件知识
+#### 硬件知识
 - Computing Unit(IPC，Intel, Nvidia, 专用自动驾驶计算单元（PX2 TX2...）)
 - 感知传感器：Camera(单目/双目，多目), Lidar, Radar, Ultrasonic Radar
 - 定位：GPS, GNSS, IMU, Other Perception Sensors
@@ -67,7 +92,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
   - 熟悉上车开发调试环境
 
 
-### 融合感知
+#### 融合感知
 - 传感器融合
 - 2D&3D 目标检测
 - 2D&3D 语义分割
@@ -75,7 +100,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 状态估计与滤波（KF, EKF，IEKF，UKF, PF）
 
 
-### 融合定位
+#### 融合定位
 - 车辆定位
 - 路径规划
 - 视觉SLAM
@@ -96,44 +121,26 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - Dynamic Programming 
 - Computation Geometry
 
-### 规划控制
+#### 规划控制
 - Basic Control Theory
 - Linear-Quadratic Regulator(LQR)
 - Model Predictive Control(MPC)
 - PID Basic Control Theory
 
-### 车辆系统
+#### 车辆系统
 - Drive-by-wire Vehicle
 - 车辆电子控制系统（Protocol(Can, Lin, FlexRay)）, 动力系统控制，制动系统控制，转向系统控制
 - 车载语音交互系统
 - AUTOSAR
 
-### V2X
+#### V2X
 - 车路协同
 
 
 #### 如何成为一名自动驾驶工程师
 [So you want to be a self-driving car engineer?](https://autonomous-driving.org/2018/08/15/so-you-want-to-be-a-self-driving-car-engineer/)[2].
 
-### Table of Content(资源目录)
-- [Companies （自动驾驶公司）](#companies)
-- [Websites(学习网站)](#websites)
-- [Blogs, News and Articles (博客文章)](#blogs)
-- [Technical Skills (技术学习)](#skills)
-- Books 书籍
-- Papers 论文
-- [Reports（行业报告）](#reports)
-- Magazines 杂志
-- Notes 笔记
-- Courses 课程
-- Videos 视屏
-- Project 项目
-- Challenges 竞赛
-- Codes 代码
-- Jobs 岗位
-- Platforms 论坛
-- Future 前沿
-- [References（参考文献）](#refers)
+
 
 ### Companies (自动驾驶公司) <a name="companies"></a>
 - [Waymo](https://waymo.com/intl/es/)
