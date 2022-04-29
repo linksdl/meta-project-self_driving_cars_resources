@@ -20,13 +20,12 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - [Books(书籍)](#books)
 - [Papers(学术论文)](#papers)
 - [Reports(行业报告)](#reports)
-- [Magazines 杂志](#magazines)
 - [Notes 学习笔记](#notes)
 - [Courses and Videos, 课程和视频](#videos)
 - [Projects and Codes 实践项目](#projects)
 - [Jobs 工作机会](#jobs)
 - [Future 前沿技术](#future)
-- [References（参考文献）](#references) 
+- [References（参考文献）](#refers) 
 
 ### The Required Technical Skills <a name="tree-skills"></a>
 自动驾驶工程师技能栈
@@ -142,6 +141,26 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - Yandex, Bosch, May MObility, Ford Auto, Toytota, Voyage Auto, BMW, Volvo
 #### 中国公司
 - 百度，理想，蔚来汽车，小鹏，小马智行，吉利汽车，长安汽车，上汽集团。
+
+#### 智能汽车产业链全景图
+- [智能汽车产业链全景图（2021年10月版）](https://mp.weixin.qq.com/s/-HccIKWX8kNafs3osAS9qA)
+- [智能汽车产业链全景图（2021年9月版）](https://mp.weixin.qq.com/s/cBGwT6GC1kRWL_gSBFcNug)
+- [智能汽车产业链全景图（2021年8月版）](https://mp.weixin.qq.com/s/VW3BGpLQFF2oWJh0L4dB7w)
+- [智能汽车产业链全景图（2021年7月版）](https://mp.weixin.qq.com/s/9n2ufRSNdFqrYqaOMPGDeA)
+- [智能汽车产业链全景图（2021年6月版）](https://mp.weixin.qq.com/s/Syj6O3cAzPLNJor1QglQWg)
+- [智能汽车产业链全景图（2021年5月版）](https://mp.weixin.qq.com/s?__biz=MzA4NTcwMDQwMg==&mid=2650795086&idx=1&sn=3a9e0128602301ba0f8d0e5f30225a28&chksm=87d8b613b0af3f057ba6f0142101a1e3f5782e942b18b7eb8a0ce6a2d36d8068791304cc0fc9&scene=178&cur_album_id=1673026835321831424#rd)
+- [智能网联汽车产业链全景图（2021年4月版）](https://mp.weixin.qq.com/s/_-WEZrf_th5rtAqcq5YaAA)
+- [智能网联汽车产业链全景图（2021年3月版）](https://mp.weixin.qq.com/s/zngNt1EVvu1x0glEFD5VoA)
+- [智能网联汽车产业链全景图（2021年1月版）](https://mp.weixin.qq.com/s/MUus8eW-Y2LFj8PwodZmwg)
+- [智能网联汽车产业链全景图（2020年12月版）](https://mp.weixin.qq.com/s/twt6K6tBfs_q_7HO5wKf_g)
+- [智能网联汽车产业链全景图（2020年11月版）](https://mp.weixin.qq.com/s/3fNS-JiOfF-HcTuiaP-Yjw)
+- [智能网联汽车产业链全景图（2020年10月版）](https://mp.weixin.qq.com/s/oTjp4uCSzYI8qcezaWKKfw)
+- [智能网联汽车产业链全景图（2020年9月版）](https://mp.weixin.qq.com/s/ND4SbkDxZCLgb6Xt1bvaHw)
+- [智能网联汽车产业链全景图（2020年8月版）](https://mp.weixin.qq.com/s/mUS5oDGyPFbug9hoPg-Ubw)
+- [座舱产业链全景图（2020年8月版）](https://mp.weixin.qq.com/s/5zqEhNDEPpEQVM6OxUmtJw)
+- [智能网联汽车产业链全景图（2020年7月版）](https://mp.weixin.qq.com/s/30OQjOJTPvHnfpralzvVrA)
+- [智能网联汽车产业链全景图（2020年6月版）](https://mp.weixin.qq.com/s/grEUnaEhBl4WqCYBlU1tpQ)
+- [2019年自动驾驶产业链企业全景图（共300多家）](https://mp.weixin.qq.com/s/Su8LaHFucmi2BUkq1fcjPg)
 
 ### Websites (学习网站)<a name="websites"></a>
 #### 1，[优达学城 Udacity](https://www.udacity.com/)
@@ -269,29 +288,25 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 - Object Detection 目标检测
   - 联合交集IoU, [Intersection over Union (IoU) for object detection(用于目标检测的联合交集 (IoU))](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)[3]
 
+### Books(书籍) <a name="books"></a>
+
+### Papers(学术论文) <a name="papers"></a>
   
 ### Reports（行业报告）<a name="reports"></a>
-**1，智能汽车产业链全景图**
-- [智能汽车产业链全景图（2021年10月版）](https://mp.weixin.qq.com/s/-HccIKWX8kNafs3osAS9qA)
-- [智能汽车产业链全景图（2021年9月版）](https://mp.weixin.qq.com/s/cBGwT6GC1kRWL_gSBFcNug)
-- [智能汽车产业链全景图（2021年8月版）](https://mp.weixin.qq.com/s/VW3BGpLQFF2oWJh0L4dB7w)
-- [智能汽车产业链全景图（2021年7月版）](https://mp.weixin.qq.com/s/9n2ufRSNdFqrYqaOMPGDeA)
-- [智能汽车产业链全景图（2021年6月版）](https://mp.weixin.qq.com/s/Syj6O3cAzPLNJor1QglQWg)
-- [智能汽车产业链全景图（2021年5月版）](https://mp.weixin.qq.com/s?__biz=MzA4NTcwMDQwMg==&mid=2650795086&idx=1&sn=3a9e0128602301ba0f8d0e5f30225a28&chksm=87d8b613b0af3f057ba6f0142101a1e3f5782e942b18b7eb8a0ce6a2d36d8068791304cc0fc9&scene=178&cur_album_id=1673026835321831424#rd)
-- [智能网联汽车产业链全景图（2021年4月版）](https://mp.weixin.qq.com/s/_-WEZrf_th5rtAqcq5YaAA)
-- [智能网联汽车产业链全景图（2021年3月版）](https://mp.weixin.qq.com/s/zngNt1EVvu1x0glEFD5VoA)
-- [智能网联汽车产业链全景图（2021年1月版）](https://mp.weixin.qq.com/s/MUus8eW-Y2LFj8PwodZmwg)
-- [智能网联汽车产业链全景图（2020年12月版）](https://mp.weixin.qq.com/s/twt6K6tBfs_q_7HO5wKf_g)
-- [智能网联汽车产业链全景图（2020年11月版）](https://mp.weixin.qq.com/s/3fNS-JiOfF-HcTuiaP-Yjw)
-- [智能网联汽车产业链全景图（2020年10月版）](https://mp.weixin.qq.com/s/oTjp4uCSzYI8qcezaWKKfw)
-- [智能网联汽车产业链全景图（2020年9月版）](https://mp.weixin.qq.com/s/ND4SbkDxZCLgb6Xt1bvaHw)
-- [智能网联汽车产业链全景图（2020年8月版）](https://mp.weixin.qq.com/s/mUS5oDGyPFbug9hoPg-Ubw)
-- [座舱产业链全景图（2020年8月版）](https://mp.weixin.qq.com/s/5zqEhNDEPpEQVM6OxUmtJw)
-- [智能网联汽车产业链全景图（2020年7月版）](https://mp.weixin.qq.com/s/30OQjOJTPvHnfpralzvVrA)
-- [智能网联汽车产业链全景图（2020年6月版）](https://mp.weixin.qq.com/s/grEUnaEhBl4WqCYBlU1tpQ)
-- [2019年自动驾驶产业链企业全景图（共300多家）](https://mp.weixin.qq.com/s/Su8LaHFucmi2BUkq1fcjPg)
 
-### References <a name="refers"></a>
+### Notes 学习笔记 <a name="notes"></a> 
+
+### Courses and Videos, 课程和视频 <a name="videos"></a>
+
+### Projects and Codes 实践项目 <a name="projects"></a>
+
+### Jobs 工作机会  <a name="jobs"></a>
+
+### Future 前沿技术 <a name="future"></a>
+#### 2022技术趋势
+![2022技术趋势](./Future(前沿技术)/2022%20top10%20technology%20trends.jpg)
+
+### References 参考文献 <a name="refers"></a>
 - [1] Udacity https://www.udacity.com/
 - [2] Felix, 2018, So you want to be a self-driving car engineer? 
 - [3] Adrian Rosebrock, 2016, Intersection over Union (IoU) for object detection

@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 /.idea/
 /reports/
-/papers/
-/notes/
-/courses/
+/Papers(学术论文)/
+/Notes(学习笔记)/
+/Courses(课程学习)/
