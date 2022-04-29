@@ -1,11 +1,115 @@
-# 自动驾驶时代（Auto-Driving Car）
-
+# The Era of Autonomous Driving (自动驾驶时代)
 - This repository is using mainly for self-driving cars learning.
 - 本项目主要用于自我学习和研究自动驾驶技术，通过收集和整理各种学习资源和内容，方便查阅, 不用于商业用途。其中部分资源来源相关的个人，也会注明出处。
 
-## The Roadmap of Learning Self Driving Cars (自动驾驶学习路线)
-> The image[1] shows the roadmap of becoming a self-driving cars engineer.
+## The Roadmap of Becoming a Self-Driving Cars Engineer (自动驾驶工程师学习路线)
 ![自动驾驶](自动驾驶学习路线图.png)
+The image[1] shows the roadmap of becoming a self-driving cars engineer.
+## 
+
+## The Required Technical Skills(自动驾驶工程师技能栈)
+### Basic Skills(通用技能)
+- 数学知识：高等数学，概率论，贝叶斯思维，线性代数，离散数学，矩阵论等
+- 科学计算：优化理论，非线性优化，凸优化问题
+- 编程语言：Python, C/C++, Matlab, Java, Shell, Bash, 高性能编程
+- C++编程：C++基础，C++面向对象编程，内存管理，性能优化，多线程/并发
+- Bazel、Cmake、Protobuf等编译工具
+- Python编程：Pandas, Numpy, Matplotlib等常见库
+- 操纵系统： Linux，QNX
+- 其他编程语言：JavaScript(Node.js, React)
+
+### 计算机基础
+- 数据结构与算法
+- 计算机组成原理
+- 操作系统原理
+- 计算机网络
+- 通信原理
+- 信息论
+- 控制理论
+
+### 通用工具
+- CPU
+- GPU(CUDA)
+- FPGA
+- Simulation: Matlab/Simulink, GameEngine(UE4)
+- 云计算平台：HD map, OpenDrive, Data Platform(虚拟化, 异构计算，分布式计算，分布式存储)，Security, OTA, DuerOS
+- ROS, Cyber RT 
+- Rviz(数据可视化)， Gazebo(物理仿真模型)
+- Docker， K8s
+- OPenCV, PCL, Open3D
+
+### AI Skills(人工智能)
+- 机器学习：经典机器学习
+- 深度学习：DNN, CNN, 迁移学习，RNN
+- 强化学习：Reinforcement Learning
+- 深度框架：Pytorch, Tensorflow, Caffe, Keras, PaddlePaddle
+- 计算机视觉: 传统计算机视觉知识
+- 图形学：Low-Level Vision, 图形学与视觉几何
+- 模型部署：CUDA， TensorRT
+
+### 硬件知识
+- Computing Unit(IPC，Intel, Nvidia, 专用自动驾驶计算单元（PX2 TX2...）)
+- 感知传感器：Camera(单目/双目，多目), Lidar, Radar, Ultrasonic Radar
+- 定位：GPS, GNSS, IMU, Other Perception Sensors
+- CAN card
+- HMI Device
+- V2X Device
+- Safety, Black Box
+- 传感器知识和技能：搭建方式，配置流程，数据形式，能够通过数据判断传感器是否正常工作
+- 无人车知识和技能：
+  - 基本的硬件组成
+  - 各Sensors流程
+  - 通讯信息接口
+  - 个人传感器优点，能力与局限
+  - 知道本模块对于硬件的需求
+  - 算法对于硬件的依赖，瓶颈
+  - 硬件的基本参数性能，调参方法
+  - 熟悉上车开发调试环境
+
+
+### 融合感知
+- 传感器融合
+- 2D&3D 目标检测
+- 2D&3D 语义分割
+- 2D&3D 场景分割
+- 状态估计与滤波（KF, EKF，IEKF，UKF, PF）
+
+
+### 融合定位
+- 车辆定位
+- 路径规划
+- 视觉SLAM
+- 激光SLAM
+- Smoothing Curves
+- Vehicle Kinematics
+- Station-time 2D Model
+- Optimization Algorithms: Dynamic Programming
+- Quadratic Programming
+- Smoothing Spline
+- *A
+- Probability Math Models: Bayesian
+- Markov Process
+- MDP
+- Basic Motion Planning Technique
+- Sampling Based Motion Planning
+- Computer Science: Parallel Programming
+- Dynamic Programming 
+- Computation Geometry
+
+### 规划控制
+- Basic Control Theory
+- Linear-Quadratic Regulator(LQR)
+- Model Predictive Control(MPC)
+- PID Basic Control Theory
+
+### 车辆系统
+- Drive-by-wire Vehicle
+- 车辆电子控制系统（Protocol(Can, Lin, FlexRay)）, 动力系统控制，制动系统控制，转向系统控制
+- 车载语音交互系统
+- AUTOSAR
+
+### V2X
+- 车路协同
 
 
 #### 如何成为一名自动驾驶工程师
