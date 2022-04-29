@@ -128,7 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /.idea/
-/reports/
+/Reports(行业报告)
 /Papers(学术论文)/
 /Notes(学习笔记)/
-/Courses(课程学习)/

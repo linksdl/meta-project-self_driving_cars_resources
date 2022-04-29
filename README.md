@@ -295,10 +295,13 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 ### Reports（行业报告）<a name="reports"></a>
 
 ### Notes 学习笔记 <a name="notes"></a> 
+- 无人驾驶入门
+- 从零开始一起学习SLAM
 
 ### Courses and Videos, 课程和视频 <a name="videos"></a>
 
 ### Projects and Codes 实践项目 <a name="projects"></a>
+- [projects and codes](https://github.com/linksdl/meta-project-self_driving_cars_projects)
 
 ### Jobs 工作机会  <a name="jobs"></a>
 
