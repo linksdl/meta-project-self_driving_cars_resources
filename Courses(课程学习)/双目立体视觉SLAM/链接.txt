@@ -1,0 +1,3 @@
+https://avisingh599.github.io/vision/visual-odometry-full/
+
+http://wiki.ros.org/rtabmap_ros/Tutorials/StereoOutdoorMapping
