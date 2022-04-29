@@ -1,8 +1,9 @@
-# 自动驾驶
-This project for self-driving cars learning
-本项目主要用于在自我学习和研究自动驾驶技术中，收集各种学习资源。其中部分资源来源相关的个人，也会注明出处。
+# 自动驾驶时代（Auto-Driving Car）
 
-### The Roadmap of Learning Self Driving Cars (自动驾驶学习路线)
+- This repository is using mainly for self-driving cars learning.
+- 本项目主要用于自我学习和研究自动驾驶技术，通过收集和整理各种学习资源和内容，方便查阅, 不用于商业用途。其中部分资源来源相关的个人，也会注明出处。
+
+## The Roadmap of Learning Self Driving Cars (自动驾驶学习路线)
 > The image[1] shows the roadmap of becoming a self-driving cars engineer.
 ![自动驾驶](自动驾驶学习路线图.png)
 
