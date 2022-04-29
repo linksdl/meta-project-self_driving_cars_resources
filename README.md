@@ -8,6 +8,8 @@
 ![自动驾驶](自动驾驶学习路线图.png)
 The image[1] shows the roadmap of becoming a self-driving cars engineer.
 
+- [如何成为一名自动驾驶工程师 So you want to be a self-driving car engineer?](https://autonomous-driving.org/2018/08/15/so-you-want-to-be-a-self-driving-car-engineer/)[2].
+- 如何成为一名合格的自动驾驶工程师？.pdf 
 
 ## Table of Content(资源目录)
 - [Skills(技能要求)](#skills)
@@ -28,7 +30,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - Jobs 岗位
 - Platforms 论坛
 - Future 前沿
-- [References（参考文献）](#refers) 
+- [References（参考文献）](#references) 
 
 ### The Required Technical Skills <a name="skills"></a>
 自动驾驶工程师技能栈
@@ -137,8 +139,6 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 车路协同
 
 
-#### 如何成为一名自动驾驶工程师
-[So you want to be a self-driving car engineer?](https://autonomous-driving.org/2018/08/15/so-you-want-to-be-a-self-driving-car-engineer/)[2].
 
 
 
