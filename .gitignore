@@ -134,3 +134,5 @@ dmypy.json
 /Reports(行业报告)/
 /Courses(课程学习)
 *.mp4
+*.h5
+*.zip
