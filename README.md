@@ -24,6 +24,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - [Courses and Videos, 课程和视频](#videos)
 - [Projects and Codes 实践项目](#projects)
 - [Jobs 工作机会](#jobs)
+- [Questions and Challenges 行业问题&挑战](#questions)
 - [Future 前沿技术](#future)
 - [References（参考文献）](#refers) 
 
@@ -304,6 +305,13 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 - [projects and codes](https://github.com/linksdl/meta-project-self_driving_cars_projects)
 
 ### Jobs 工作机会  <a name="jobs"></a>
+
+
+### Questions and Challenges 行业问题&挑战 <a name="questions"></a>
+- 如何在基于视觉下的交通灯的识别问题，如何判断哪一个红绿灯才是需要作出决策的？
+- 如何实现在行驶过程中识别静止车辆突然开门？
+- 如何识别大型的拖车（因为形状前小后大）？
+- 如何识别公交车（因为中间是个链接体，材质不同导致雷达识别两个同的物体。）
 
 ### Future 前沿技术 <a name="future"></a>
 #### 2022技术趋势
