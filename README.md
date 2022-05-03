@@ -143,7 +143,8 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 #### 中国公司
 - 百度，理想，蔚来汽车，小鹏，小马智行，吉利汽车，长安汽车，上汽集团。
 
-#### 智能汽车产业链全景图
+#### [智能汽车产业链全景图](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4NTcwMDQwMg==&action=getalbum&album_id=1673026835321831424&scene=173&from_msgid=2650811033&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+- [智能汽车产业链全景图（2022年4月版）](https://mp.weixin.qq.com/s/955_RMhb6KRo_96HBaLUog)
 - [智能汽车产业链全景图（2021年10月版）](https://mp.weixin.qq.com/s/-HccIKWX8kNafs3osAS9qA)
 - [智能汽车产业链全景图（2021年9月版）](https://mp.weixin.qq.com/s/cBGwT6GC1kRWL_gSBFcNug)
 - [智能汽车产业链全景图（2021年8月版）](https://mp.weixin.qq.com/s/VW3BGpLQFF2oWJh0L4dB7w)
