@@ -79,9 +79,11 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - Computing Unit(IPC，Intel, Nvidia, 专用自动驾驶计算单元（PX2 TX2...）)
 - 感知传感器：Camera(单目/双目，多目), Lidar, Radar, Ultrasonic Radar
 - 定位：GPS, GNSS, IMU, Other Perception Sensors
+- 摄像机, 惯性导航仪，GPS卫星定位系统
+- 网络差分
 - CAN card
 - HMI Device
-- V2X Device（V2V, V2I, V2P）
+- V2X Device（V2Vehicle, V2Infrastructure, V2Pedestrian, V2Road, V2Network, V2Cloud）
 - 车联网
 - 智能网联
 - 智慧交通
@@ -149,6 +151,9 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 车辆电子控制系统（Protocol(Can, Lin, FlexRay)）, 动力系统控制，制动系统控制，转向系统控制
 - 车载语音交互系统
 - AUTOSAR
+- 车辆底盘, 1转向系统, 油门控制, 2制动系统, 3动力系统, 4控制系统
+- 电子电气架构（环境感知, 定位导航, 通信系统，计算平台，供电系统）
+- 线控油门，线控转向，线控制动
 
 #### 智能网联
 - 车路协同
@@ -159,6 +164,20 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 道路测试
 - 城市测试
 
+#### 系统结构
+- 感知层，决策层（车联网，高精地图），执行层
+- 云计算
+- 车联网
+- 地图
+- 系统安全（硬件稳定性，系统稳定性，人机切换）
+- 处理芯片（处理能力，实时性，成本）
+- 人工智能（大数据，深度学习，图像处理）
+- 感知系统（激光雷达，毫米波雷达，摄像头）
+
+#### 应用场景
+- 矿区
+- 园区
+- 公园
 
 ### Companies (自动驾驶公司) <a name="companies"></a>
 #### 国外公司
