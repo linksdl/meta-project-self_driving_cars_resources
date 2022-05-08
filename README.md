@@ -50,6 +50,11 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 信息论
 - 控制理论
 
+#### 车辆工程
+- 电子电气
+- 运动模型
+- 动力模型
+
 #### 通用工具
 - CPU
 - GPU(CUDA)
@@ -76,7 +81,12 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 定位：GPS, GNSS, IMU, Other Perception Sensors
 - CAN card
 - HMI Device
-- V2X Device
+- V2X Device（V2V, V2I, V2P）
+- 车联网
+- 智能网联
+- 智慧交通
+- 智慧城市
+- 道路协同
 - Safety, Black Box
 - 传感器知识和技能：搭建方式，配置流程，数据形式，能够通过数据判断传感器是否正常工作
 - 无人车知识和技能：
@@ -90,7 +100,11 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
   - 熟悉上车开发调试环境
 
 
-#### 融合感知
+#### 传感器标定
+
+
+
+#### 环境感知
 - 传感器融合
 - 2D&3D 目标检测
 - 2D&3D 语义分割
@@ -98,7 +112,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 状态估计与滤波（KF, EKF，IEKF，UKF, PF）
 
 
-#### 融合定位
+#### 定位建图
 - 车辆定位
 - 路径规划
 - 视觉SLAM
@@ -119,11 +133,16 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - Dynamic Programming 
 - Computation Geometry
 
-#### 规划控制
+#### 决策规划
+- 强化学习
+- A*算法
+
+#### 运动控制
 - Basic Control Theory
 - Linear-Quadratic Regulator(LQR)
 - Model Predictive Control(MPC)
 - PID Basic Control Theory
+
 
 #### 车辆系统
 - Drive-by-wire Vehicle
@@ -131,9 +150,14 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 车载语音交互系统
 - AUTOSAR
 
-#### V2X
+#### 智能网联
 - 车路协同
+- V2X
 
+#### 仿真测试
+- 仿真器
+- 道路测试
+- 城市测试
 
 
 ### Companies (自动驾驶公司) <a name="companies"></a>
