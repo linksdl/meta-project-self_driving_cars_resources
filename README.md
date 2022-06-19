@@ -186,6 +186,23 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 #### 中国公司
 - 百度，理想，蔚来汽车，小鹏，小马智行，吉利汽车，长安汽车，上汽集团。
 
+#### L4 自动驾驶公司盘点
+- [百度Apollo, 小马智行, 文远知行](https://mp.weixin.qq.com/s/pLbf7HqGVPhrtXxHcisJAw)
+- [AutoX, 元戎启行, 轻舟智航](https://mp.weixin.qq.com/s/7bs2fscMGW5BfI_CxzHUlA)
+- [Momenta, 领骏科技, 滴滴自动驾驶](https://mp.weixin.qq.com/s/XM8e0fYckWwWBNgUzz3_Ng)
+- [智行者, 驭势科技, 中智行](https://mp.weixin.qq.com/s/o_S4wpjXo_zzTtL_rr_J5g)
+- [图森未来, 智加科技, 赢彻科技](https://mp.weixin.qq.com/s/ekL_8ai4oZhD2DJexQtzsg)
+- [飞步科技, 斯年智驾,主线科技](https://mp.weixin.qq.com/s/NyBFEB44huVfic0FTFmXdg)
+- [西井科技, 挚途科技, 擎天智卡](https://mp.weixin.qq.com/s/ecDgioIQ0c3XSiW-IuQ8Qw)
+- [希迪智驾, 猩行科技, 畅行智能](https://mp.weixin.qq.com/s/JiYhsaB8RLKA3jafsgD4yg)
+- [千挂科技, 踏歌智行, 慧拓智能](https://mp.weixin.qq.com/s/QtuV0bonHmeaLx5eaPtmnw)
+- [易控智驾, 伯镭科技, 盟识科技](https://mp.weixin.qq.com/s/dFpws5T-YXKzXGUN_5u35w)
+- [路凯智行, 仓擎智能, 九耀智能](https://mp.weixin.qq.com/s/yRw_8zMjOU0tlJEEsN21Fw)
+- [美团, 京东, 阿里达摩院](https://mp.weixin.qq.com/s/6OhxKWvQy5XQmaWofuqQRA)
+- [行深智能, 白犀牛, 高仙机器人](https://mp.weixin.qq.com/s/WEBGFKRr4pFNMt879-gH5w)
+- [酷哇机器人, 新石器, 渡众机器人](https://mp.weixin.qq.com/s/TGa6aKsczdGLfBbvdaO-oQ)
+
+
 #### [智能汽车产业链全景图](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4NTcwMDQwMg==&action=getalbum&album_id=1673026835321831424&scene=173&from_msgid=2650811033&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 - [智能汽车产业链全景图（2022年4月版）](https://mp.weixin.qq.com/s/955_RMhb6KRo_96HBaLUog)
 - [智能汽车产业链全景图（2021年10月版）](https://mp.weixin.qq.com/s/-HccIKWX8kNafs3osAS9qA)
