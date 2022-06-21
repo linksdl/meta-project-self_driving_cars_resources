@@ -201,6 +201,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - [美团, 京东, 阿里达摩院](https://mp.weixin.qq.com/s/6OhxKWvQy5XQmaWofuqQRA)
 - [行深智能, 白犀牛, 高仙机器人](https://mp.weixin.qq.com/s/WEBGFKRr4pFNMt879-gH5w)
 - [酷哇机器人, 新石器, 渡众机器人](https://mp.weixin.qq.com/s/TGa6aKsczdGLfBbvdaO-oQ)
+- [仙途智能, 于万智驾, 深兰科技](https://mp.weixin.qq.com/s/oEHBZ3PsFB4kER1g8yEXCA)
 
 
 #### [智能汽车产业链全景图](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4NTcwMDQwMg==&action=getalbum&album_id=1673026835321831424&scene=173&from_msgid=2650811033&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
