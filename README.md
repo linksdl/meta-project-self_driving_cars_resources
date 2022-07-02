@@ -29,17 +29,12 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - [References（参考文献）](#refers) 
 
 ### The Required Technical Skills <a name="tree-skills"></a>
-自动驾驶工程师技能栈
-
-#### Basic Skills(通用技能)
-- 数学知识：高等数学，概率论，贝叶斯思维，线性代数，离散数学，矩阵论等
-- 科学计算：优化理论，非线性优化，凸优化问题
-- 编程语言：Python, C/C++, Matlab, Java, Shell, Bash, 高性能编程
-- C++编程：C++基础，C++面向对象编程，内存管理，性能优化，多线程/并发
-- Bazel、Cmake、Protobuf等编译工具
-- Python编程：Pandas, Numpy, Matplotlib等常见库
-- 操纵系统： Linux，QNX
-- 其他编程语言：JavaScript(Node.js, React)
+自动驾驶工程师技能栈:
+- 自动驾驶感知算法工程师
+- 自动驾驶激光雷达算法工程师
+- 自动驾驶感知融合算法工程师
+- 自动驾驶毫米波算法工程师
+- 自动驾驶规划决策算法工程师
 
 #### 计算机基础
 - 数据结构与算法
@@ -50,12 +45,28 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 信息论
 - 控制理论
 
-#### 车辆工程
-- 电子电气
-- 运动模型
-- 动力模型
+#### 数学基础
+- 高等数学
+- 概率论，贝叶斯思维
+- 线性代数
+- 离散数学
+- 矩阵论等
+- 科学计算：优化理论，数值优化，非线性优化，凸优化问题
 
-#### 通用工具
+#### 编程开发
+-  C/C++：C++基础，C++面向对象编程，内存管理，性能优化，多线程/并发
+-  C++的Bazel、Cmake、Protobuf等编译工具
+-  Python编程
+-  Python库：Pandas, Numpy, Matplotlib等常见库
+-  OPenCV, PCL, Open3D
+-  Matlab & Simulink
+-  JavaScript(Node.js, React)
+-  操作系统：QNX，Linux, Shell, Vim
+-  高性能编程，
+-  CUDA编程
+
+#### 开发工具
+- VsCode, Pycharm, Clion, 
 - CPU
 - GPU(CUDA)
 - FPGA
@@ -64,21 +75,46 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - ROS, Cyber RT 
 - Rviz(数据可视化)， Gazebo(物理仿真模型)
 - Docker， K8s
-- OPenCV, PCL, Open3D
 
-#### AI Skills(人工智能)
+#### 车辆工程
+- 电子电气
+- 运动模型
+- 动力模型
+
+#### 车辆系统
+- Drive-by-wire Vehicle
+- 车辆电子控制系统（Protocol(Can, Lin, FlexRay)）, 动力系统控制，制动系统控制，转向系统控制
+- 车载语音交互系统
+- AUTOSAR
+- 车辆底盘, 1转向系统, 油门控制, 2制动系统, 3动力系统, 4控制系统
+- 电子电气架构（环境感知, 定位导航, 通信系统，计算平台，供电系统）
+- 线控油门，线控转向，线控制动
+
+#### 人工智能
 - 机器学习：经典机器学习
-- 深度学习：DNN, CNN, 迁移学习，RNN
+- 深度学习：DNN, CNN, 迁移学习，RNN, NLP, 文本挖掘
 - 强化学习：Reinforcement Learning
+- 图神经网络，图优化
 - 深度框架：Pytorch, Tensorflow, Caffe, Keras, PaddlePaddle
 - 计算机视觉: 传统计算机视觉知识
 - 图形学：Low-Level Vision, 图形学与视觉几何
 - 模型部署：CUDA， TensorRT
 
+#### 基础架构
+- 自动驾驶基础架构
+- 感知层，决策层（车联网，高精地图），执行层
+- 云计算
+- 车联网
+- 地图
+- 系统安全（硬件稳定性，系统稳定性，人机切换）
+- 处理芯片（处理能力，实时性，成本）
+- 人工智能（大数据，深度学习，图像处理）
+- 感知系统（激光雷达，毫米波雷达，摄像头）
+
 #### 硬件知识
 - Computing Unit(IPC，Intel, Nvidia, 专用自动驾驶计算单元（PX2 TX2...）)
 - 感知传感器：Camera(单目/双目，多目), Lidar, Radar, Ultrasonic Radar
-- 定位：GPS, GNSS, IMU, Other Perception Sensors
+- 定位：GPS, GNSS, IMU, INS,Other Perception Sensors
 - 摄像机, 惯性导航仪，GPS卫星定位系统
 - 网络差分
 - CAN card
@@ -101,12 +137,13 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
   - 硬件的基本参数性能，调参方法
   - 熟悉上车开发调试环境
 
-
 #### 传感器标定
+- 内参外参标定
+- 摄像头标定
+- 激光雷达标定
+- 联合标定
 
-
-
-#### 环境感知
+### 环境感知
 - 传感器融合
 - 2D&3D 目标检测
 - 2D&3D 语义分割
@@ -114,7 +151,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 状态估计与滤波（KF, EKF，IEKF，UKF, PF）
 
 
-#### 定位建图
+### 定位建图
 - 车辆定位
 - 路径规划
 - 视觉SLAM
@@ -135,7 +172,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - Dynamic Programming 
 - Computation Geometry
 
-#### 决策规划
+### 决策规划
 - 强化学习
 - A*算法
 
@@ -146,15 +183,6 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - PID Basic Control Theory
 
 
-#### 车辆系统
-- Drive-by-wire Vehicle
-- 车辆电子控制系统（Protocol(Can, Lin, FlexRay)）, 动力系统控制，制动系统控制，转向系统控制
-- 车载语音交互系统
-- AUTOSAR
-- 车辆底盘, 1转向系统, 油门控制, 2制动系统, 3动力系统, 4控制系统
-- 电子电气架构（环境感知, 定位导航, 通信系统，计算平台，供电系统）
-- 线控油门，线控转向，线控制动
-
 #### 智能网联
 - 车路协同
 - V2X
@@ -164,20 +192,14 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 道路测试
 - 城市测试
 
-#### 系统结构
-- 感知层，决策层（车联网，高精地图），执行层
-- 云计算
-- 车联网
-- 地图
-- 系统安全（硬件稳定性，系统稳定性，人机切换）
-- 处理芯片（处理能力，实时性，成本）
-- 人工智能（大数据，深度学习，图像处理）
-- 感知系统（激光雷达，毫米波雷达，摄像头）
-
 #### 应用场景
 - 矿区
 - 园区
 - 公园
+- 固定道路
+- RoboTaxi, RoboBus, RoboTruck
+- 末端物流配送
+- 室内清扫机器人，室内搬运机器人，室外作业机器人
 
 ### Companies (自动驾驶公司) <a name="companies"></a>
 #### 国外公司
