@@ -352,6 +352,8 @@ Self-Driving Cars Specialization Offered by University of TORONTO
   - 联合交集IoU, [Intersection over Union (IoU) for object detection(用于目标检测的联合交集 (IoU))](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)[3]
 
 ### Books(书籍) <a name="books"></a>
+- 自动驾驶技术系列丛书
+- 第一本无人驾驶书
 
 ### Papers(学术论文) <a name="papers"></a>
   
