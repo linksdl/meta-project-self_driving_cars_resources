@@ -63,7 +63,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 -  JavaScript(Node.js, React)
 -  操作系统：QNX，Linux, Shell, Vim
 -  高性能编程，
--  CUDA编程
+-  CUDA编程, JETSON AGX Orin GPU computing
 
 #### 开发工具
 - VsCode, Pycharm, Clion, 
