@@ -376,7 +376,9 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 ### Books(书籍) <a name="books"></a>
 - 自动驾驶技术系列丛书
 - 第一本无人驾驶书
-- 《ROS技术理论与实践》
+-《ROS技术理论与实践》
+-《C++ Prime Plus》
+
 
 ### Papers(学术论文) <a name="papers"></a>
   
