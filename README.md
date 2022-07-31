@@ -403,6 +403,14 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 - 如何识别公交车（因为中间是个链接体，材质不同导致雷达识别两个同的物体。）
 
 ### Future 前沿技术 <a name="future"></a>
+
+
+### 设备厂商
+- 激光雷达 Lidar
+  - 国产
+  - 国外
+
+
 #### 2022技术趋势
 ![2022技术趋势](./Future(前沿技术)/2022%20top10%20technology%20trends.jpg)
 
