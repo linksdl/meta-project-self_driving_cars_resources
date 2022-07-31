@@ -407,7 +407,7 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 
 ### 设备厂商
 - 激光雷达 Lidar
-  - 国产
+  - 国产， Robosense
   - 国外
 
 
