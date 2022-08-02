@@ -410,6 +410,25 @@ Self-Driving Cars Specialization Offered by University of TORONTO
   - 国产， Robosense
   - 国外
 
+### 技术问题
+- 传感器授时，使用GPS
+- 多传感器融合定位和建图，紧耦合还是松耦合？ 紧耦合效果会好，紧耦合可能计算量会大一些，所以看应用场景。
+- Lidar 与IMU 外参标定，在线标定
+- evo 轨迹对比， gps 对比 如果是整形解的rtk，可以作为真值。 ground truth 
+- 相机，Lidar, GNSS(GPS+RTK), IMU, 轮速历程计Odometry
+- 多传感器融合，以视觉为主还是激光雷达为主
+  > 视觉slam方向：常见的方式是一个视觉特征点前端（当然还有基于直接法的前端，如DSO），通过光流
+或者描述子建立不同帧特征点之间的关联，后端根据前端特征关联的结果和其他传感器数据进行融合，
+根据融合的方式分为基于优化的后端（ORBSLAM2、3, VINS-MONO，VINS-FUSION）以及基于滤波的
+后端（MSCKF），视觉通常会提供一个重投影误差作为约束或者更新量 
+  > 激光slam方向：目前性能最好使用最广的激光slam方案是基于LOAM的系列方案，LOAM主要是为多线
+激光雷达设计的lidar定位和建图的方案，当然，由于现在其他一些lidar硬件的推出，一些LOAM的改进
+版本也是适当推出，如（Livox LOAM）。
+  > 基于LOAM方案通常前端是对当前帧激光雷达提取特征（通常是面特征和线特征），通常后端结合其他
+传感器信息给当前帧到地图中的匹配提供一个良好的初值（激光slam中最重要的事情就是给scan
+matching提供一个更准确的init guess）
+- 传感器融合方案介绍（LOAM, A-LOAM, LeGO-LOAM, LIO-SAM, LIVOX-LOAM）
+
 
 #### 2022技术趋势
 ![2022技术趋势](./Future(前沿技术)/2022%20top10%20technology%20trends.jpg)
