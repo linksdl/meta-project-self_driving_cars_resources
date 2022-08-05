@@ -76,6 +76,12 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - Rviz(数据可视化)， Gazebo(物理仿真模型)
 - Docker， K8s
 
+#### 优化库
+- ceres-solver
+- g2o
+- gtsam
+- eigen
+
 #### 车辆工程
 - 电子电气
 - 运动模型
