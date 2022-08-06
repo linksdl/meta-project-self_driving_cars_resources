@@ -434,6 +434,7 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 传感器信息给当前帧到地图中的匹配提供一个良好的初值（激光slam中最重要的事情就是给scan
 matching提供一个更准确的init guess）
 - 传感器融合方案介绍（LOAM, A-LOAM, LeGO-LOAM, LIO-SAM, LIVOX-LOAM）
+- 多传感器融合定位
 
 
 #### 2022技术趋势
