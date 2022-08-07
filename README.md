@@ -407,6 +407,7 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 - 如何实现在行驶过程中识别静止车辆突然开门？
 - 如何识别大型的拖车（因为形状前小后大）？
 - 如何识别公交车（因为中间是个链接体，材质不同导致雷达识别两个同的物体。）
+- IMU定位设备的标定问题
 
 ### Future 前沿技术 <a name="future"></a>
 
