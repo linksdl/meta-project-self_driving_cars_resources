@@ -414,8 +414,8 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 
 ### 设备厂商
 - 激光雷达 Lidar
-  - 国产， Robosense
-  - 国外
+  - 国产，Robosense
+  - 国外, Velodyne
 
 ### 技术问题
 - 传感器授时，使用GPS
