@@ -436,6 +436,7 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 matching提供一个更准确的init guess）
 - 传感器融合方案介绍（LOAM, A-LOAM, LeGO-LOAM, LIO-SAM, LIVOX-LOAM）
 - 多传感器融合定位
+- IMU预积分，IMU不能过长时间作位姿
 
 
 #### 2022技术趋势
