@@ -438,6 +438,8 @@ matching提供一个更准确的init guess）
 - 传感器融合方案介绍（LOAM, A-LOAM, LeGO-LOAM, LIO-SAM, LIVOX-LOAM）
 - 多传感器融合定位
 - IMU预积分，IMU不能过长时间作位姿，IMU 
+- 组合导航（Novatel, 诺瓦泰17-19W），国产组合导航(3-5W)，IMU自己融合
+- 激光雷达，机械的有禾赛、速腾、镭神等，固态的大疆 livox 应用较广
 
 
 #### 2022技术趋势
