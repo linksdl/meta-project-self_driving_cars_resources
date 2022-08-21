@@ -35,6 +35,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 自动驾驶感知融合算法工程师
 - 自动驾驶毫米波算法工程师
 - 自动驾驶规划决策算法工程师
+- 自动驾驶融合定位算法工程师
 
 #### 计算机基础
 - 数据结构与算法
