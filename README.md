@@ -82,6 +82,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - g2o
 - gtsam
 - eigen
+- Sophus
 
 #### 车辆工程
 - 电子电气
