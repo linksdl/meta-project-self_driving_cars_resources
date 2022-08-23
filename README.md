@@ -82,6 +82,14 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - g2o
 - gtsam
 - eigen
+  - 旋转矩阵 Eigen::Matirix3d
+  - 旋转向量 Eigen::AngleAxisd
+  - 欧拉角 Eigen::Vector3d
+  - 四元数 Eigen::Quaterniond
+  - 欧式变换矩阵 Eigen::Isometry3d
+  - 仿射变换 Eigen::Affine3d
+  - 射影变幻 Eigen::Projective3d
+  
 - Sophus
 
 #### 车辆工程
