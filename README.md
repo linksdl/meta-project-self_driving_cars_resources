@@ -89,8 +89,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
   - 欧式变换矩阵 Eigen::Isometry3d
   - 仿射变换 Eigen::Affine3d
   - 射影变幻 Eigen::Projective3d
-  
-- Sophus
+- Sophus，李群， 李代数
 
 #### 车辆工程
 - 电子电气
