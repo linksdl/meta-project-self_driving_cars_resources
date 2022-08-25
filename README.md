@@ -398,6 +398,7 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 - 《ROS技术理论与实践》
 - 《C++ Prime Plus》
 - 《cmake实践》
+- 《Effective C++》
 
 #### SLAM 系列
 - 《视觉SLAM十四讲》
