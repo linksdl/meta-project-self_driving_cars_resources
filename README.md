@@ -397,6 +397,7 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 #### 自动驾驶必备技术
 - 《ROS技术理论与实践》
 - 《C++ Prime Plus》
+- 《C Prime Plus》
 - 《cmake实践》
 - 《Effective C++》
 
