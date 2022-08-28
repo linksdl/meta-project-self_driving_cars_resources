@@ -58,8 +58,10 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 -  C/C++：C++基础，C++面向对象编程，内存管理，性能优化，多线程/并发
 -  C++的Bazel、Cmake、Protobuf等编译工具
 -  Python编程
+-  AI -> Deep Learning, Python, Pytorch, Tensorflow
+-  ROS,
 -  Python库：Pandas, Numpy, Matplotlib等常见库
--  OPenCV, PCL, Open3D
+-  OPenCV, PCL, Open3D, G2O, Gtsam, Eigen, Sofus
 -  Matlab & Simulink
 -  JavaScript(Node.js, React)
 -  操作系统：QNX，Linux, Shell, Vim
@@ -160,6 +162,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 
 ### 环境感知
 - 传感器融合
+- 激光 & 视觉
 - 2D&3D 目标检测
 - 2D&3D 语义分割
 - 2D&3D 场景分割
