@@ -80,10 +80,10 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - Docker， K8s
 
 #### 优化库
-- ceres-solver
-- g2o
+- ceres-solver 线性优化，常用优化算法
+- g2o 图优化
 - gtsam
-- eigen
+- eigen 矩阵操作
   - 旋转矩阵 Eigen::Matirix3d
   - 旋转向量 Eigen::AngleAxisd
   - 欧拉角 Eigen::Vector3d
@@ -92,6 +92,8 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
   - 仿射变换 Eigen::Affine3d
   - 射影变幻 Eigen::Projective3d
 - Sophus，李群， 李代数
+- OpenCV 对图像的处理和操作
+- PCL 对点云的处理库
 
 #### 车辆工程
 - 电子电气
