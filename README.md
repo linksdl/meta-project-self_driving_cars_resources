@@ -405,6 +405,7 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 - 《C Prime Plus》
 - 《cmake实践》
 - 《Effective C++》
+- 《More Effective C++》
 
 #### SLAM 系列
 - 《视觉SLAM十四讲》
