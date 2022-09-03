@@ -413,6 +413,9 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 - 《计算机视觉中的多视图几何》
 - 《机器人学中的状态估计》
 
+#### 深度学习
+- 《Deep Learning》
+
 
 ### Papers(学术论文) <a name="papers"></a>
   
