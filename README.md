@@ -46,7 +46,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 信息论
 - 控制理论
 
-#### 数学基础
+#### 数学基础设计
 - 高等数学
 - 概率论，贝叶斯思维
 - 线性代数
@@ -104,7 +104,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - Drive-by-wire Vehicle
 - 车辆电子控制系统（Protocol(Can, Lin, FlexRay)）, 动力系统控制，制动系统控制，转向系统控制
 - 车载语音交互系统
-- AUTOSAR
+- 组件架构设计：AUTOSAR
 - 车辆底盘, 1转向系统, 油门控制, 2制动系统, 3动力系统, 4控制系统
 - 电子电气架构（环境感知, 定位导航, 通信系统，计算平台，供电系统）
 - 线控油门，线控转向，线控制动
@@ -220,6 +220,20 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - RoboTaxi, RoboBus, RoboTruck
 - 末端物流配送
 - 室内清扫机器人，室内搬运机器人，室外作业机器人
+
+### 自动驾驶算法与芯片设计
+- 3D物体检测
+- 车道检测，交通灯检测
+- 运动规划与控制
+- 定位与建图
+- 自动驾驶仿真器
+- 自动驾驶芯片
+- 深度学习模型优化
+- 自动驾驶Soc设计
+- 自动驾驶操作系统
+- 自动驾驶软件架构
+- 5G C-V2X 车联网
+
 
 ### Companies (自动驾驶公司) <a name="companies"></a>
 #### 国外公司
