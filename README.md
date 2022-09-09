@@ -80,6 +80,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - Docker， K8s
 
 #### 优化库
+- [各种库的安装](https://blog.csdn.net/HZ490727/article/details/80866894?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-80866894-blog-88374776.pc_relevant_multi_platform_featuressortv2dupreplace&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-80866894-blog-88374776.pc_relevant_multi_platform_featuressortv2dupreplace&utm_relevant_index=1)
 - ceres-solver 线性优化，常用优化算法
 - g2o 图优化
 - gtsam
