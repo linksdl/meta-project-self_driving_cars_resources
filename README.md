@@ -120,6 +120,9 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 图形学：Low-Level Vision, 图形学与视觉几何
 - 模型部署：CUDA， TensorRT
 
+#### 芯片技术
+- CPU，GPU
+
 #### 基础架构
 - 自动驾驶基础架构
 - 感知层，决策层（车联网，高精地图），执行层
