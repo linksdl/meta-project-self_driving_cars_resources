@@ -238,6 +238,12 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - 自动驾驶软件架构
 - 5G C-V2X 车联网
 
+#### 具体技术
+##### 1. 激光SLAM
+- LOAM，Categrahper-3D, A-LOAM，V-LOAM, LeGo-LOAM, LIO-SAM, LVI-SAM, LINS
+- IMU内参，零偏；IMU外参，相对于车体坐标系的位置，位姿态等
+- 激光内参，外参标定
+- IMU和激光的联合标定，平移和旋转参数
 
 ### Companies (自动驾驶公司) <a name="companies"></a>
 #### 国外公司
