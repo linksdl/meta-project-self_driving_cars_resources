@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 /.idea/
 /Documents(学习文档)/
-/Books(参考书籍)/
+/books/
 /Reports(行业报告)/
 /Courses(课程学习)
 *.mp4

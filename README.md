@@ -244,6 +244,14 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 - IMU内参，零偏；IMU外参，相对于车体坐标系的位置，位姿态等
 - 激光内参，外参标定
 - IMU和激光的联合标定，平移和旋转参数
+- 室内2D激光SLAM
+  - hector_slam
+  - karto_slam
+  - gmapping
+  - cartographer2D
+- 室外3D激光SLAM
+  - LOAM，Categrahper-3D, A-LOAM，V-LOAM, LeGo-LOAM, LIO-SAM, LVI-SAM, LINS
+  - fast-LIO 紧耦合
 
 ### Companies (自动驾驶公司) <a name="companies"></a>
 #### 国外公司
@@ -491,6 +499,7 @@ Self-Driving Cars Specialization Offered by University of TORONTO
 matching提供一个更准确的init guess）
 - 传感器融合方案介绍（LOAM, A-LOAM, LeGO-LOAM, LIO-SAM, LIVOX-LOAM）
 - 多传感器融合定位
+- 工控机，CANbus, CanNet, Cube
 - IMU预积分，IMU不能过长时间作位姿，IMU 
 - 组合导航（Novatel, 诺瓦泰17-19W），国产组合导航(3-5W)，IMU自己融合
 - 激光雷达，机械的有禾赛、速腾、镭神等，固态的大疆 livox 应用较广
