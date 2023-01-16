@@ -128,10 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /.idea/
-/Documents(学习文档)/
-/books/
-/Reports(行业报告)/
-/Courses(课程学习)
+/Books(书籍)/
 *.mp4
 *.h5
 *.zip
+*.rar
