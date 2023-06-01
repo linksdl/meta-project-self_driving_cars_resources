@@ -280,6 +280,7 @@ The image[1] shows the roadmap of becoming a self-driving cars engineer.
 
 #### [智能汽车产业链全景图](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4NTcwMDQwMg==&action=getalbum&album_id=1673026835321831424&scene=173&from_msgid=2650811033&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 - [智能汽车产业链全景图（2023年5月版）](https://mp.weixin.qq.com/s/Vi2so3soN9xauj0Hbx-6Rg)
+- [智能汽车产业链全景图（2023年4月版)](https://mp.weixin.qq.com/s?__biz=MzA4NTcwMDQwMg==&mid=2650822411&idx=1&sn=0130b78a604dda5c5c4cef3bcc5fbd08&chksm=84270d56b35084406332ea85f109d5f42821221d1f493ed43b5d5ed0f6cfe7629d9ea992c19c&scene=178&cur_album_id=1673026835321831424#rd)
 - [智能汽车产业链全景图（2022年4月版）](https://mp.weixin.qq.com/s/955_RMhb6KRo_96HBaLUog)
 - [智能汽车产业链全景图（2021年10月版）](https://mp.weixin.qq.com/s/-HccIKWX8kNafs3osAS9qA)
 - [智能汽车产业链全景图（2021年9月版）](https://mp.weixin.qq.com/s/cBGwT6GC1kRWL_gSBFcNug)
